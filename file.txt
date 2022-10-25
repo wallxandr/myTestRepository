@@ -1,1 +1,1 @@
-some text new
+where is my python interpreter?
