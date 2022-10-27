@@ -14,5 +14,3 @@ print(input)
 some `weird` code text
 
 nah, just kidding, here [link one](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-testing
