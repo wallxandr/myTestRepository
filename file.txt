@@ -1,1 +1,2 @@
-where is my python interpreter?
+- where is my python interpreter?
+- one should ask Harry Potter about that
