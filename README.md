@@ -8,7 +8,7 @@ greetings = "Hello GitHub World"
 question = "I'm new here. Where to start?"
 print(greetings, question)
 answer = input()
-print(input)
+print(answer)
 ```
 
 some `weird` code text
