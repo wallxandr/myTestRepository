@@ -5,7 +5,7 @@ repository for learning how to use github
 
 ```python
 greetings = "Hello GitHub World"
-question = "I'm new here. Where to start?
+question = "I'm new here. Where to start?"
 print(greetings, question)
 answer = input()
 print(input)
